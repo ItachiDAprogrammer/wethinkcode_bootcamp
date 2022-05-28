@@ -1,0 +1,17 @@
+exam_results:
+
+StudentA - 50
+StudentB - 30
+StudentC - 40
+
+group_project:
+
+StudentA - 8
+StudentB - 10
+StudentC - 12
+
+Daily_exercises:
+
+StudentA - 18
+StudentB - 20
+StudentC - 22
