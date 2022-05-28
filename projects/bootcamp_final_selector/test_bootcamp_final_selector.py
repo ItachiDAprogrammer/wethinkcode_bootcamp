@@ -12,7 +12,7 @@ class TestBootcampFinalSelector(unittest.TestCase):
         sys.stdout = output
 
         bootcamp_final_selector.user_name()
-        self.assertEqual(output.getValue(), '''Enter username: ''')
+        self.assertEqual(output.getvalue(), '''Enter username: ''')
 
 
     def test_file_exists(self):
